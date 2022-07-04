@@ -1,0 +1,23 @@
+.newsletter{
+	width: 60%;
+	margin: auto;
+	text-align: center;
+	margin-top: 30px;
+
+}
+
+.newsletter > input {
+	outline: none;
+	border: none;
+	background-color: #F0F1F3;
+	padding: 0.3rem;
+	width: 50%;
+} 
+
+.newsletter > button{
+padding: 0.3rem;
+background-color: orange;
+outline: none;
+border: none;
+border-radius: 2px;
+}

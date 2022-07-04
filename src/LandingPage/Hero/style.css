@@ -1,0 +1,30 @@
+.hero{
+	background: url("../../Component/img/cover_image.jpg") no-repeat center/cover;
+	text-align: center;
+	height: 350px;
+	position: relative;
+	/*margin-top: 2px;*/
+}
+
+.hero_text{
+	position: absolute;
+	top: 50%;
+	right: 40%;
+
+}
+
+.hero_text> p{
+	color: white;
+}
+
+.hero_text> h4{
+	color: white;
+}
+
+.hero_text> button{
+	padding: 0.3rem;
+background-color: orange;
+outline: none;
+border: none;
+border-radius: 2px;
+}

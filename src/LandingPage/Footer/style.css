@@ -1,0 +1,40 @@
+.footer_body{
+	/*background: linear-gradient(to right, rgb(26, 33, 43), rgb(76, 85, 100)); */
+	/*background: rgb(149, 168, 179);*/
+	/*background: rgb(123, 140, 149);*/
+	background-color: rgb(68, 95, 106);
+	color : white;
+	padding: 50px;
+	/*z-index: 3;*/
+	margin-top: 50px;
+	/*position: relative;
+  min-height: 100vh;
+	*//*top: 100%;*/
+
+
+}
+
+.apply {
+  justify-content: flex-start;
+}
+.general {
+  justify-content: flex-start;
+}
+
+.general > p {
+	margin:  0;
+	padding: 0;
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+
+.legal {
+}
+
+.legal > p {
+	margin:  0;
+	padding: 0;
+	font-size: 14px;
+	margin-bottom: 10px;
+}
