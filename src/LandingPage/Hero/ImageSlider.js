@@ -19,19 +19,19 @@ const ImgSlider = () => {
 		<>
 			<Carousel {...settings} >
 				<Wrap>
-					<img src={CoverImage} />
+					<img src={CoverImage} alt="sliders"/>
 				</Wrap>
 
 				<Wrap>
-					<img src={CoverImage} />
+					<img src={CoverImage} alt="sliders"/>
 				</Wrap>
 
 				<Wrap>
-					<img src={CoverImage} />
+					<img src={CoverImage} alt="sliders" />
 				</Wrap>
 
 				<Wrap>
-					<img src={CoverImage} />
+					<img src={CoverImage} alt="sliders" />
 				</Wrap>
 			</Carousel>
 		</>
